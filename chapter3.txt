@@ -1,0 +1,2 @@
+This is chapter 3 of Story.
+This is not in staging area.
