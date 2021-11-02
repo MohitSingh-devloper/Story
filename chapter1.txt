@@ -1,0 +1,21 @@
+Hello This is mohit singh .
+This file is made with the cmd proompt.
+(type nul >file_name.Extesion).
+
+Now it is editing through the cmd Prompt.
+copy con Filename.txt
+now we gonna do CONTROL+Z to finish it.
+
+Other way to override is echo Text >filename.txt
+
+
+To create folder:
+mkdir Folder name
+
+
+To Delete folder:
+rmdir \s folder name
+
+For seeing hidden files:
+dir C: /a:h /b /s
+
